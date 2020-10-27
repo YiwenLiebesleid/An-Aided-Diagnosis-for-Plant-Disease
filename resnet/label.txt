@@ -1,0 +1,22 @@
+Corn: Cercospora leaf spot Gray leaf spot
+Corn: Common rust
+Corn: Healthy
+Corn: Northern leaf blight
+Grape: Black rot
+Grape: Esca Black measles
+Grape: Healthy
+Grape: Leaf blight Isariopsis leaf spot
+Tomato: Bacterial spot
+Tomato: Early blight
+Tomato: Healthy
+Tomato: Late blight
+Tomato: Leaf mold
+Tomato: Septoria leaf spot
+Tomato: Spider mites Two-spotted spider mite
+Tomato: Target spot
+Tomato: Mosaic virus
+Tomato: Yellow leaf curl virus
+Apple: Scab
+Apple: Black rot
+Apple: Cedar apple rust
+Apple: Healthy
